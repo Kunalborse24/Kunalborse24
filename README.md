@@ -32,22 +32,17 @@ _April 2024 – August 2024_
 - Full-stack web app: REST API (J2EE) with React frontend  
 - JWT-based login & Role-Based Access  
 - Advanced product search/filtering, inventory tracking
-- [GitHub](https://github.com/Kunalborse24/Medico-Online-Medical-Store)
-
-### [Slice-of-Heaven Pizza Shop](#)
+### [Slice-of-Heaven Pizza Shop](https://github.com/Kunalborse24/Slice-of-Heaven-Pizza-Shop)
 _March 2024 – April 2024_  
 **Stack:** React.js, Node.js, Express.js, MySQL, Bootstrap  
 - Full-stack web app: REST API (Express.js) with React frontend  
 - JWT authentication, CryptoJS-based data security  
 - Responsive UI with Bootstrap 5
-- [GitHub](https://github.com/Kunalborse24/Slice-of-Heaven-Pizza-Shop)
-
-### [Personal Portfolio Website]  
+### [Personal Portfolio Website](https://github.com/Kunalborse24/Portfolio)
 _June 2024 – July 2024_  
 **Stack:** React, Tailwind CSS, JavaScript  
 - Responsive single-page design, interactive UI  
 - Hosted on GitHub Pages
-- [GitHub](https://github.com/Kunalborse24/Portfolio)
 - [Live](https://kunalborse24.github.io/Portfolio/)
 
 ---
