@@ -17,7 +17,7 @@
 
 **Firstcry (Brainbees Solution Limited)**  
 _Software Developer I (Dec 2024 – Present), Pune, Maharashtra_
-- Developed and maintained full-stack features for the ME-MyAccount module (My Profile, Order History, Returns, Quick Reorder, Shortlist) using Node.js, React, JavaScript, and PHP
+- Developed and maintained full-stack features for the ME-MyAccount module (My Profile, Order History, Order Details, Returns, Quick Reorder, Shortlist,Notifyme) using Node.js, React, JavaScript, and PHP
 - Improved user experience and data consistency with UI enhancements and robust backend logic
 - Identified and resolved bugs for smoother navigation and faster page load times
 - Collaborated with QA & seniors for code quality and feature stability
