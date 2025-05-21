@@ -26,13 +26,13 @@ _Software Developer I (Dec 2024 – Present), Pune, Maharashtra_
 
 ## 🏆 Projects
 
-### [Medico - Online Medical Store]((https://github.com/Kunalborse24/Medico-Online-Medical-Store))
+### [Medico - Online Medical Store](https://github.com/Kunalborse24/Medico-Online-Medical-Store)
 _April 2024 – August 2024_  
 **Stack:** J2EE, React, MySQL, Java, Spring Boot, Bootstrap  
 - Full-stack web app: REST API (J2EE) with React frontend  
 - JWT-based login & Role-Based Access  
 - Advanced product search/filtering, inventory tracking
-- [GitHub]
+- [GitHub](https://github.com/Kunalborse24/Medico-Online-Medical-Store)
 
 ### [Slice-of-Heaven Pizza Shop](#)
 _March 2024 – April 2024_  
